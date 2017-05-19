@@ -1,10 +1,7 @@
 # This is an h1 tag
-## This is an h2 tag
-### This is an h3 tag
 ###### This is an h6 tag
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
 
 *This text will be italic*
 _This will also be italic_
@@ -14,7 +11,7 @@ __This will also be bold__
 _You **can** combine them_
 
 
-## Tables
+### Tables
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 
 First Header | Second Header
