@@ -35,21 +35,24 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 
-Images
+**Images**
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
-Links
+
+**Links**
 
 http://github.com - automatic!
 [GitHub](http://github.com)
-Blockquotes
+
+**Blockquotes**
 
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
-Inline code
+
+**Inline code**
 
 I think you should use an
 `<addr>` element here instead.
