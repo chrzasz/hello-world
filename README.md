@@ -97,7 +97,7 @@ mojombo/github-flavored-markdown#1
 ### Username @mentions
 Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
 
-@chrzasz
+@github/chrzasz
 
 ### Automatic linking for URLs
 Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
